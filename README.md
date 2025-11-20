@@ -17,10 +17,15 @@ Large language models (LLMs) are fantastic companions in this regard. I love Not
 ### System Prompts
 - **[The Jaded Report Reader](system-prompts/report-skeptic.md)** - A personality-defining system prompt for creating a skeptical assistant that evaluates reports with healthy skepticism
 
-### Generation Prompts
+### Quick Evaluation Prompts
 - **[Anything Interesting?](generation-prompts/anything-interesting.md)** - Evaluates whether a report contains original ideas, noteworthy statistics, or strong opinions
 - **[Original Thinking?](generation-prompts/original-thinking.md)** - Assesses whether a report contains genuinely new ideas or just regurgitated content
 - **[Worth The Read?](generation-prompts/worth-the-read.md)** - Provides a verdict on whether a report justifies the reader's time investment
+
+### Analysis & Extraction Prompts
+- **[Noteworthy Findings](analysis/noteworthy-findings.md)** - Identifies unexpected or novel findings that contradict or extend previous research
+- **[Interesting Statistics](analysis/interesting-stats.md)** - Extracts and organizes key statistics thematically with page references
+- **[Executive Summary](exec-summary/exec-summary.md)** - Generates a critical executive summary evaluating both content and credibility
 
 ## Suggested Usage (NotebookLM)
 
