@@ -11,3 +11,17 @@ However, there is also an undeniable trend, in certain industries, to produce lo
 Reports are often mixed bags: A few original ideas buried amidst chapters of dreary regurgitated statistics. How can one - sorry to be trite - separate wheat from chaff?
 
  Large language models (LLMs) are fantastic companions in this regard. I love NotebookLM. But it is inherently polite and deferential. Which is why I've found value in maintaining a few slightly more blunt prompts which can be pasted in the custom generation section (or any other way one wishes to use these!)
+
+ ## Suggested Usage (NotebookLM)
+
+ ![alt text](screenshots/1.png)
+
+ ![alt text](screenshots/2.png)
+
+ UI/Flow at the time of creation (20/November):
+
+ - Add report as source 
+ - Studio
+ - Create report 
+ - Create your own 
+ - Copy and paste a prompt 
