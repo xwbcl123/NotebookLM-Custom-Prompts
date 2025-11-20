@@ -23,6 +23,7 @@ Large language models (LLMs) are fantastic companions in this regard. I love Not
 - **[Worth The Read?](analysis/worth-the-read.md)** - Provides a verdict on whether a report justifies the reader's time investment
 
 ### Data Extraction Prompts
+- **[Main Arguments Roundup](extraction/main-arguments.md)** - Identifies and summarizes the report's core thesis, supporting arguments, evidence strength, and counterarguments
 - **[Noteworthy Findings](extraction/noteworthy-findings.md)** - Identifies unexpected or novel findings that contradict or extend previous research
 - **[Interesting Statistics](extraction/interesting-stats.md)** - Extracts and organizes key statistics thematically with page references
 - **[Case Studies Analysis](extraction/case-studies.md)** - Extracts and organizes case studies thematically, identifying what they demonstrate and providing page references
