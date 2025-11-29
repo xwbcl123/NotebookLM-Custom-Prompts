@@ -2,8 +2,4 @@ This repository contains a small library of prompts intended to work with Notebo
 
 NotebookLM prompts - at the time of writing - have a limit of 300 words. So no single prompt can exceed that limit. 
 
-README contains a table with the prompts and its structure;
-
-## Language Preference
-always respond me in CN, with proper emoj embeded. 
-
+README contains a table with the prompts and 
