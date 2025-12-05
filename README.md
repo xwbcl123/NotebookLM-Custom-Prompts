@@ -1,6 +1,6 @@
 # NotebookLM Custom Prompts 📚
 
-> **Quick Start**: 🚀 [**All-in-One File**](report-analysis/one-in-all/all-prompts.md) | 🇪🇺 [**EU-DRULE System**](EU-DRULE/README.md) | 🗣️ [**Conf-Intel System**](conf-intel/README.md)
+> **Quick Start**: 🚀 [**All-in-One File**](report-analysis/one-in-all/all-prompts.md) | 🇪🇺 [**EU-DRULE System**](EU-DRULE/README.md) | 🗣️ [**Conf-Intel System (v2.4)**](conf-intel/README.md)
 
 ## Motivation
 
@@ -39,7 +39,7 @@ Large language models (LLMs) are fantastic companions in this regard. I love Not
 
 ---
 
-### 🗣️ Conf-Intel - Meeting Intelligence System
+### 🗣️ Conf-Intel - Meeting Intelligence System (v2.4)
 *A comprehensive multi-layer workflow for extracting deep insights from meeting recordings and transcripts*
 
 **[📖 View Conf-Intel Documentation](conf-intel/README.md)**
@@ -50,15 +50,15 @@ Large language models (LLMs) are fantastic companions in this regard. I love Not
 - **[📋 M3: Executive Synthesis](conf-intel/)** - Cross-meeting integration and macro perspectives
 - **[✍️ M4: Draft Generation](conf-intel/)** - Scenario-based output generation
 
-**Key Features:**
-- **Bilingual Support**: Both CN and EN versions with EICO strategy (English Instructions, Chinese Output)
-- **Modular Design**: Each layer can be used independently or combined
-- **Progressive Enhancement**: From basic restoration to advanced analysis
+**Key Features (v2.4):**
+- **Standalone Architecture**: All modules run independently on Raw Data ("Source Resilience").
+- **North Star Directive**: Embedded logic prioritizes user intuition (`[Notes]`) over AI analysis.
+- **EICO Strategy**: English Instructions, Chinese Output for maximum logic and fluency.
 
 **Quick Links:**
-- **[📄 All-in-One (EN Edition)](conf-intel/consolidated/all-in-one.md)** - Complete conference analysis workflow
-- **[CN: Complete Analysis Workflow](conf-intel/cn/conf-m2-insight-matrix-v2.2.md)** - Chinese comprehensive system
-- **[EN: Module 2 Deep Insights](conf-intel/en/🛡️%20Module%202%20Deep%20Insight%20Matrix%20(EN%20Version).md)** - English analytical framework
+- **[📄 All-in-One (EN Edition)](conf-intel/consolidated/all-in-one.md)** - Complete conference analysis workflow (v2.4)
+- **[CN: Complete Analysis Workflow](conf-intel/cn/conf-m2-insight-matrix-v2.4.md)** - Chinese comprehensive system
+- **[EN: Module 2 Deep Insights](conf-intel/en/conf-m2-universal-en-v2.4.md)** - English analytical framework
 - **[EN: Executive TL;DR](conf-intel/en/conf-m3-executive-tldr-en-v2.2.md)** - Decision-maker summary
 
 ---
