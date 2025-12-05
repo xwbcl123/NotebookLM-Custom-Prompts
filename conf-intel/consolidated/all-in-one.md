@@ -4,21 +4,35 @@
 >
 > This document consolidates all English version prompts (M1-M4) for optimal performance with NotebookLM.
 
+## 🧭 0. Global Directive: The "North Star" Rule
+*(⚠️ **CRITICAL**: This logic applies to ALL modules below. It ensures AI listens to you first.)*
+
+### 🛡️ SPECIAL DIRECTIVE: Human Intuition Override
+**Trigger**: Check if any source file is tagged with **`[Author_Intuition]`**, **`[Director_Cut]`**, or simply **`[Notes]`**.
+
+**Execution Rules**:
+1.  **Ground Truth**: Treat the user's notes as the absolute "Ground Truth of Value".
+2.  **Interpretive Lens**: Use the user's notes as the primary lens to interpret all other raw data. If the user says a session was "groundbreaking," you must look for evidence to support that, even if the Transcript seems dry.
+3.  **Priority Override**: If AI analysis conflicts with User Notes (e.g., M2 says "Standard Strategy" but Notes say "Hidden Gem"), **align with the User Notes**.
+
+---
+
 ## 📚 Table of Contents
 
-1. [Module 1: Foundational Reconstruction Layer](#module-1-foundational-reconstruction-layer)
+1. [0. Global Directive: The "North Star" Rule](#0-global-directive-the-north-star-rule)
+2. [Module 1: Foundational Reconstruction Layer](#module-1-foundational-reconstruction-layer)
    - M1: Holographic Reconstruction
    - M1B: Smart Value Evaluation
    - M1C: Fact & System Deconstruction
-2. [Module 2: Deep Insight Layer](#module-2-deep-insight-layer)
+3. [Module 2: Deep Insight Layer](#module-2-deep-insight-layer)
    - M2 Universal: General Deep Insight Miner
    - M2A: Logic & Argument Audit
    - M2B: Strategic & Geopolitical Analysis
    - M2C: Innovation & Knowledge Scout
-3. [Module 3: Synthesis Layer](#module-3-synthesis-layer)
+4. [Module 3: Synthesis Layer](#module-3-synthesis-layer)
    - M3 Executive: TL;DR Decision Summary
    - M3 Macro: Conference Strategic Synthesis
-4. [Module 4: Output Generation Layer](#module-4-output-generation-layer)
+5. [Module 4: Output Generation Layer](#module-4-output-generation-layer)
    - M4: Scenario-Based Draft Generator
 
 ---
